@@ -12,6 +12,10 @@ An independent, synthetic-data portfolio prototype inspired by advertising media
 
 **Status:** v0.1 optimization prototype. No LLM agent, trained forecasting model, real advertising data, production deployment or real-world performance claims are included yet.
 
+## Results
+
+📊 **[View verified sample outputs, allocation tables, test results, and limitations](results/RESULTS.md)**
+
 ## Quickstart
 
 ```bash
