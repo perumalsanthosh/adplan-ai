@@ -12,9 +12,11 @@ An independent, synthetic-data portfolio prototype inspired by advertising media
 
 **Status:** v0.1 optimization prototype. No LLM agent, trained forecasting model, real advertising data, production deployment or real-world performance claims are included yet.
 
-## Results
+## Project walkthrough
 
-📊 **[View verified sample outputs, allocation tables, test results, and limitations](results/RESULTS.md)**
+- 📊 **[Results and charts](results/RESULTS.md)** — two synthetic scenarios, allocation tables, Mermaid visualizations, constraint checks and interpretation.
+- 🏗️ **[System architecture](docs/ARCHITECTURE.md)** — implemented components, data flow, API contract, optimization formulation and future agent architecture.
+- 🧪 **[Evaluation plan](docs/EVALUATION.md)** — existing tests, proposed benchmarks, baselines and scientific validation standards.
 
 ## Quickstart
 
